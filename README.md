@@ -1,4 +1,4 @@
-# (Partically) Annotated Bibliography for Question Answering and Reading Comprehension Datasets
+# (Partially) Annotated Bibliography for Question Answering and Reading Comprehension Datasets
 Ansong Ni
 
 #### Note: ####
